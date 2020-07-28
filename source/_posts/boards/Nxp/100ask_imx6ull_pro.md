@@ -1,0 +1,273 @@
+# 100ASK_IMX6ULL开发板
+## 配套资料下载
+- 开发板配套资料：
+  - 链接：[https://eyun.baidu.com/s/3smDzFAH](https://eyun.baidu.com/s/3smDzFAH) 
+  - 密码：LDCn
+
+## 配套视频教程免费在线学习
+- 百问网在线教学平台：[https://www.100ask.net/detail/p_5e63533cd8f11_RgAmj3vM/8](https://www.100ask.net/detail/p_5e63533cd8f11_RgAmj3vM/8)
+- bilibili在线观看：[https://www.bilibili.com/video/BV1w4411B7a4](https://www.bilibili.com/video/BV1w4411B7a4)
+
+## 配套视频教程及源码下载
+- 百度云盘下载视频&源码
+  - 链接：[https://eyun.baidu.com/s/3c2XmIVA](https://eyun.baidu.com/s/3c2XmIVA) 
+  - 密码：askNEWCourseA
+- 使用git单独下载源码&文档
+  - 从git官网下载并安装Git Bash工具 :  [ https://gitforwindows.org/ ]( https://gitforwindows.org/ )
+  -  打开git bash，执行命令下载：git clone https://e.coding.net/weidongshan/01_all_series_quickstart.git
+
+> 下载成功后，你会在 C:\Users 目录下，你自己的用户目录里，看到一个 “01_all_series_quickstart” 目录
+
+## 配套书籍在线阅读
+[https://book.100ask.net/](https://book.100ask.net/)
+
+## 产品交流专区
+[100ask_imx6ull](http://bbs.100ask.net/questions/IMX6ULLBoard)
+
+## 如何购买开发板
+- 百问网官方淘宝店： [https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-18944745104.12.1af36036mi4L3a&id=610613585935](https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-18944745104.12.1af36036mi4L3a&id=610613585935)
+- 百问网官方商城：     [https://www.100ask.net/index](https://www.100ask.net/index)
+
+## 学习交流答疑
+- 百问网答疑论坛：[http://bbs.100ask.net](http://bbs.100ask.net)
+- 百问网官方wiki：[http://wiki.100ask.org](http://wiki.100ask.org)
+- 学习交流微信群：[http://wiki.100ask.org/Community#%E5%BE%AE%E4%BF%A1%E4%BA%A4%E6%B5%81%E7%BE%A4](http://wiki.100ask.org/Community#%E5%BE%AE%E4%BF%A1%E4%BA%A4%E6%B5%81%E7%BE%A4)
+- 学习交流QQ群：  [http://wiki.100ask.org/Community#QQ%E4%BA%A4%E6%B5%81%E7%BE%A4](http://wiki.100ask.org/Community#QQ%E4%BA%A4%E6%B5%81%E7%BE%A4)
+
+> 交流微信群与QQ群选择对应的产品申请加入即可。
+
+## 资料光盘内容简介（可能不是最新，仅供查阅）
+
+- 00_UserManual (手册)
+  - 【韦东山】嵌入式Linux应用开发完全手册第2版_韦东山全系列视频文档全集_必读.pdf
+  - 【学员笔记】100ask_imx6ul开发板实战记录-杨老师.pdf
+- 01_Tools (工具)
+  - 100ask-vmware_ubuntu18.04.7z
+  - FileZilla_3.22.1_win32-setup.exe
+  - MobaXterm_Portable_v11.0.zip
+  - npp.7.6.1.Installer.exe
+  - qt-creator-opensource-linux-x86_64-4.8.0.run
+  - SD Card Formatter 5.0.1 Setup.exe
+  - VMware-workstation-full-15.1.0-13591040.exe
+  - win32diskimager-1.0.0-install.exe
+  - sourceinsight40106-setup.exe
+  - tftpd64.464.zip
+  - 100ask_imx6ull烧写工具.tar.bz2
+  - readme-解压密码都是100ask.org-必读.txt
+  - IMX_pinsTools
+    - [Pins_Tool_for_i.MX](http://Pins_Tool_for_i.MX)_Processors_v6_x64.exe
+    - MCIMX6Y2xxx08.mex
+- 02_Images (系统固件)
+  - Emmc_image
+    - 100ask_imx6ull-mfgtools_20200211.zip
+  - Ubuntu-16.04_image
+    - ubuntu-16.04-armhf_100ask_imx6ull.zip
+  - Sdcard_img
+    - sdcard_20200211.img
+  - Buildroot_image
+    - 100ask_imx6ull-14x14.dtb
+    - rootfs.tar.bz2
+    - u-boot-dtb.imx
+    - zImage
+- 03_Examples (例程)
+- 04_Lib (库，暂为空)
+- 05_Hardware (原理图)
+  - Base_board
+    - 100ask_imx6ull_v1.1.pdf
+  - Core_board
+    - MYC-Y6ULX1211.pdf
+    - MYC-Y6ULX_Pin_list_V13.xlsx
+  - Extend_modules
+    - adxl345.zip
+      - adxl345.zip
+    - dac.zip
+    - dht11.zip
+    - ds18b20.zip
+    - eeprom.zip
+    - gps.zip
+    - irda.zip
+    - oled.zip
+    - 人体红外感应.zip
+    - 步进电机驱动模块.zip
+    - 7寸LCD模块
+      - lcd_v11_0105final_20200110.pdf
+    - imx6ull_extend_v10.pdf
+    - 100ASK_IMX6ULL模块测试手册V1.1.pdf
+  - LCD底板
+    - 100ASK的LCD底板
+      - 100ask_imx6ull_lcd底板.brd
+      - 100ask_imx6ull_lcd底板.DSN
+      - 100ask_imx6ull_lcd底板.pdf
+    - 其他家LCD的FPC转接板
+      - 正点原子&野火LCD FPC转接板.brd
+      - 正点原子&野火LCD FPC转接板.DSN
+      - 正点原子&野火LCD FPC转接板.pdf
+- 06_Datasheet (数据手册)
+  - Core_board
+    - cpu
+      - i.MX6ULL Applications Processor Reference Manual.pdf
+      - IMX6ULLRM.pdf
+    - Emmc
+      - 4gb_8gb-EMMC-MTFC4GACAJCN.pdf
+    - Nandflash
+      - 2G_NAND.pdf
+    - Nandflash
+      - 2G_NAND.pdf
+    - SDRAM
+      - 2Gb_DDR3-K4B2G1646F.pdf
+      - 2Gb_DDR3-MT41K128M16.pdf
+      - 4Gb_DDR3.pdf
+  - Base_board
+    - 100ask_imx6ull底板_规格书
+      - AO3415.pdf
+      - AO3416.pdf
+      - AT070TN92.pdf
+      - BAT54_SERIES_4.pdf
+      - C116847_SN74LV595APWR_2017-09-25.PDF
+      - C266551_SS14_2018-08-17.PDF
+      - C47546_BAT54S,215_2017-09-14.PDF
+      - C8065_ZMM7V5_2012-05-12.PDF
+      - DFN2510__4个TVS__AZ1045-04F.PDF
+      - ecmf04-4hswm10.pdf
+      - ICM-20608-G.pdf
+      - LAN8720A.pdf
+      - MP1495S.pdf
+      - MP1541数据手册(中文)-V1.00.pdf
+      - mp2143dj.pdf
+      - MP3302_r0.98.pdf
+      - PJ-342E直插.pdf
+      - RT9013-12GB.pdf
+      - RTL8723BU-datasheet-For Q42142951.pdf
+      - RTL8723BU蓝牙wifi二合一模块(RL-UM02WBS-8723BU-V1.2)规格书.pdf
+      - SiI9022A_SiI9024A.pdf
+      - SiI9022A_SiI9024A编程接口.pdf
+      - SiL9022A-DS-1076-G.pdf
+      - SiL9022ACNU.PDF
+      - SiL9022A_SiliconImage.pdf
+      - sn74hc595.pdf
+      - SN74LVC2G17DCKR.pdf
+      - SP3485.pdf
+      - TJA1042T.pdf
+      - tsc2003-q1.pdf
+      - TYPE-C设计规范及引脚功能说明.pdf
+      - ULC0544P10-UNSemiconducctor.pdf
+      - usb type C-12p.pdf
+      - usb type C-6p.pdf
+      - ZMM.pdf
+- 07_Bsp_sdk(BSP包)
+  - 100ask_imx6ull-sdk.7z
+  - Yocto_downloads.tar.gz
+- 08_Reference material (参考资料)
+  - 调试笔记
+    - 【调试笔记】韦东山：在100ask_imx6ull上移植使用六轴传感器ICM20608.docx
+    - 【调试笔记】韦东山：在100ASK_IMX6ULL板子上支持其他型号的屏幕.docx
+   - 免责声明(Disclaimer).txt
+  - 构建arm架构ubuntu根文件系统.pdf
+  - Arm架构参考资料
+    - armasm_user_guide_100069_0612_00_en.pdf
+    - armv7 ar架构参考手册 学习CPU架构、内存及系统架构（DDI0406C_d_armv7ar_arm）.pdf
+    - ARMv7编程手册(DEN0013D_cortex_a_series_PG).pdf
+    - Arm?通用中断控制器架构规格书(IHI0069E_gic_architecture_specification).pdf
+    - GICv3和GICv4软件概述(GICv3_Software_Overview_Official_Release_B).pdf
+    - 架构，处理器和设备开发文章(DHT0001A_architecture_processors_and_devices).pdf
+    - 参考资料.txt
+    - arm A7参考资料
+      - Cortex?-A7 MPCore技术参考手册(DDI0464F_cortex_a7_mpcore_r0p5_trm).pdf
+      - Cortex?-A7 NEON?媒体处理技术参考手册(DDI0462F_cortex_a7_neon_mpe_r0p5_trm).pdf
+      - Cortex?-A7浮点单元技术参考手册(DDI0463F_cortex_a7_fpu_r0p5_trm).pdf
+  - Gcc学习参考资料
+    - gcc.pdf
+    - gnu-c-manual.pdf
+    - The GNU C LibraryReference Manual.pdf
+    - 参考资料.txt
+  - Git参考资料
+    - progit_v2.1.33.pdf
+    - 参考资料.txt
+  - LinuxC编程参考资料
+    - beginning-linux-programming.pdf
+    - c-programming-in-linux.pdf
+    - CSC322.pdf
+    - How to Compile and Run a C Program on Ubuntu Linux.pdf
+    - Lecture01.pdf
+    - linux_book.pdf
+    - The GNU C Programming Tutorial.pdf
+    - TutorialFor_CandCPP_ProgrammingOnLinux_2004_18pgs.pdf
+  - linux基础知识学习参考资料
+    - vbird-linux-basic-4e.pdf
+    - 鸟哥的Linux私房菜.基础学习篇（第三版）.mobi
+    - 鸟哥的Linux私房菜第三版(基础和服务器).chm
+  - Makefile学习参考资料
+    - 参考资料.txt
+    - gun_make.pdf
+    - 跟我一起学Makefile.pdf
+  - ubuntu学习参考资料
+    - ubuntu-16.04 serverguide.pdf
+    - ubuntu-18.04_serverguide.pdf
+    - Ubuntu实用学习教程.pdf
+  - nxp官方资料分类整理
+    - [i.MX](http://i.MX)_6_Linux_Reference_Manual.pdf
+    - [i.MX](http://i.MX)_Linux_Reference_Manual.pdf
+    - [i.MX](http://i.MX)_Reference_Manual_Linux.pdf
+    - Application Note
+      - 6ULL Power Consumption Application Note.pdf
+      - HABv4 RVT Guidelines and Recommendations.pdf
+      - i.MX6 Temperature Sensor Module.pdf
+      - i.MX6ULL Migration Guide.pdf
+      - i.MX6ULL Product Usage Lifetime Estimates.pdf
+      - Measuring Current ini.MXApplications.pdf
+    - Brochure
+      - i.MX6 &i.MX7 Series Applications Processors Comparison.pdf
+    - Data Sheet
+      - i.MX6ULL Applications Processors for Consumer Products.pdf
+      - i.MX6ULL Applications Processors for Industrial Products.pdf
+      - IMX6ULLCEC.pdf
+      - IMX6ULLIEC.pdf
+    - Errata
+      - Chip Errata for thei.MX6ULL.pdf
+    - Fact Sheet
+      - i.MX6 Series of Applications Processors.pdf
+      - i.MX6ULL Applications Processors.pdf
+    - Reference Manual
+      - i.MX6ULL Applications Processor Reference Manual.pdf
+      - IMX6ULLRM.pdf
+    - Supporting Information
+      - fsl_yocto-L4.1.15_2.0.0-ga.tar.gz
+    - Users Guide
+      - Hardware Development Guide for thei.MX6ULL Applications Processor.pdf
+      - i.MX6ULL EVK Board Hardware User's Guide.pdf
+  - Buildroot学习参考资料
+    - Buildroot2.pdf
+    - Getting-Started-With-Buildroot-Slides-ELC2018.pdf
+    - The Buildroot user manual.pdf
+    - buildroot-slides.pdf
+    - 参考网址.txt
+  - Yocto学习参考资料
+    - adt-manual.pdf
+    - BitBake User Manual.pdf
+    - bsp-guide.pdf
+    - dev-manual.pdf
+    - kernel-dev.pdf
+    - Packt.Embedded.Linux.Projects.Using.Yocto.Project.Cookbook.pdf
+    - poky-ref-manual.pdf
+    - profile-manual.pdf
+    - Toaster User Manual.pdf
+    - Yocto Project Application Development and the Extensible Software Development Kit (eSDK).pdf
+    - Yocto Project Board Support Package Developer's Guide.pdf
+    - Yocto Project Development Manual.pdf
+    - Yocto Project Linux Kernel Development Manual.pdf
+    - Yocto Project Mega-Manual.pdf
+    - Yocto Project Reference Manual.pdf
+- 09_Sourcecode (系统源码-仅供阅读，不可编译)
+  - imx-uboot2017.03.zip
+  - imx-linux4.9.88.zip
+  - busybox.zip
+  - buildroot_2019.02.zipx
+  - Buildroot2019.02_dl.zip
+  - gcc-arm-linux-gnueabihf-6.2.1.zip
+  - ToolChain-6.2.1.zip
+- 10_Bare machine(裸机程序)
+  - 100ASK_IMX6ULL裸机程序V2.0.zip
+
+## 关于百问网(韦东山)
+[公司简介](http://weidongshan.gitee.io/informationdownloadcenter/documentation/AboutUs/aboutus.html)  <br>
+[联系方式](http://weidongshan.gitee.io/informationdownloadcenter/documentation/AboutUs/aboutus.html#id2)
